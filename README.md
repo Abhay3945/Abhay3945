@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Abhay3945
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Abhay Tambe (@Abhay3945)
 
-<!---
-Abhay3945/Abhay3945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Full Stack Development, Open Source, and Building Scalable Web Applications  
+- 🌱 I’m currently learning System Design, Docker, and Advanced Backend Development with Java and FastAPI  
+- 💞️ I’m looking to collaborate on real-world projects, especially involving React.js, Node.js, or FastAPI  
+- 📫 How to reach me:  
+  - 📧 dattatraytambe505@gmail.com  
+  - 🔗 [LinkedIn](https://linkedin.com/in/abhay-tambe-39a675251)  
+  - 🌐 [Portfolio](https://portfolio-abhay-tambe.vercel.app)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love breaking down complex tech problems into simple, real-world solutions!
+
+
